@@ -1,0 +1,6 @@
+[submodule "nuxt-elephant"]
+	path = nuxt-elephant
+	url = https://github.com/flock-games/nuxt-elephant
+[submodule "studio-elephant"]
+	path = studio-elephant
+	url = https://github.com/flock-games/studio-elephant
